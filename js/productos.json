@@ -1,0 +1,182 @@
+[
+    {
+        "id": "ps4-01",
+        "titulo": "Mad Max",
+        "imagen": "./img/playstation/ps401.jpg",
+        "categoria": {
+            "nombre": "PlayStation",
+            "id": "ps4"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "ps4-02",
+        "titulo": "Gravel",
+        "imagen": "./img/playstation/ps402.jpg",
+        "categoria": {
+            "nombre": "PlayStation",
+            "id": "ps4"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "ps4-03",
+        "titulo": "battle field",
+        "imagen": "./img/playstation/ps403.jpg",
+        "categoria": {
+            "nombre": "PlayStation",
+            "id": "ps4"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "ps4-04",
+        "titulo": "Minecraft",
+        "imagen": "./img/playstation/ps404.jpg",
+        "categoria": {
+            "nombre": "PlayStation",
+            "id": "ps4"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "ps4-05",
+        "titulo": "Watch Dogs",
+        "imagen": "./img/playstation/ps405.jpg",
+        "categoria": {
+            "nombre": "PlayStation",
+            "id": "ps4"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "xboxone-01",
+        "titulo": "Gears of war 4",
+        "imagen": "./img/xboxone/xbox101.jpg",
+        "categoria": {
+            "nombre": "Xbox One",
+            "id": "xboxone"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "xboxone-02",
+        "titulo": "Injustice 2",
+        "imagen": "./img/xboxone/xbox102.jpg",
+        "categoria": {
+            "nombre": "Xbox One",
+            "id": "xboxone"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "xboxone-03",
+        "titulo": "Prey",
+        "imagen": "./img/xboxone/xbox103.jpg",
+        "categoria": {
+            "nombre": "Xbox One",
+            "id": "xboxone"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "xboxone-04",
+        "titulo": "Assessin creed",
+        "imagen": "./img/xboxone/xbox104.jpg",
+        "categoria": {
+            "nombre": "Xbox One",
+            "id": "xboxone"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "xboxone-05",
+        "titulo": "Resident evil 4",
+        "imagen": "./img/xboxone/xbox105.jpg",
+        "categoria": {
+            "nombre": "Xbox One",
+            "id": "xboxone"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "xboxone-06",
+        "titulo": "Gears 5",
+        "imagen": "./img/xboxone/xbox106.jpg",
+        "categoria": {
+            "nombre": "Xbox One",
+            "id": "xboxone"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "xboxone-07",
+        "titulo": "Destiny",
+        "imagen": "./img/xboxone/xbox107.jpg",
+        "categoria": {
+            "nombre": "Xbox One",
+            "id": "xboxone"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "xboxone-08",
+        "titulo": "Need for Speed",
+        "imagen": "./img/xboxone/xbox108.jpg",
+        "categoria": {
+            "nombre": "Xbox One",
+            "id": "xboxone"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "nintendo-01",
+        "titulo": "Mario kart 8",
+        "imagen": "./img/nintendo/ndo01.jpg",
+        "categoria": {
+            "nombre": "Nintendo",
+            "id": "nintendo"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "nintendo-02",
+        "titulo": "Zelda",
+        "imagen": "./img/nintendo/ndo02.jpg",
+        "categoria": {
+            "nombre": "Nintendo",
+            "id": "nintendo"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "nintendo-03",
+        "titulo": "Luigi´s Mansion",
+        "imagen": "./img/nintendo/ndo03.jpg",
+        "categoria": {
+            "nombre": "Nintendo",
+            "id": "nintendo"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "nintendo-04",
+        "titulo": "Spyro",
+        "imagen": "./img/nintendo/ndo04.jpg",
+        "categoria": {
+            "nombre": "Nintendo",
+            "id": "nintendo"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "nintendo-05",
+        "titulo": "Arms",
+        "imagen": "./img/nintendo/ndo05.jpg",
+        "categoria": {
+            "nombre": "Nintendo",
+            "id": "nintendo"
+        },
+        "precio": 1000
+    }
+]
